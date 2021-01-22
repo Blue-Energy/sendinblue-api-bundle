@@ -4,7 +4,7 @@
 
 This is [SendinBlue](https://www.sendinblue.com) provided API V2 Symfony Bundle. It implements the various exposed APIs that you can read more about on https://apidocs.sendinblue.com.
 
-
+THIS IS FORKED FROM https://github.com/mailin-api/sendinblue-api-bundle
 ## Prerequisites
 
 This version of the bundle requires Symfony 2.x OR 3.x.
