@@ -1,5 +1,5 @@
 {
-	"name": "sendinblue/sendinblue-api-bundle",
+	"name": "blue-energy/sendinblue-api-bundle",
 	"type": "symfony-bundle",
 	"description": "Official SendinBlue provided API V2 Symfony 2.x & 3.x Bundle",
 	"keywords": ["Sendinblue", "api", "Bundle"],
@@ -10,11 +10,15 @@
 			"name": "SendinBlue Developers",
 			"email": "contact@sendinblue.com",
 			"homepage": "https://www.sendinblue.com/"
+		},
+		{
+			"name": "Luis Sejer",
+			"email": "lo@blueenergy.dk"
 		}
 	],
 	"require": {
 		"php": ">=5.3",
-		"symfony/framework-bundle": "2.*|3.*"
+		"symfony/framework-bundle": "5.*"
 	},
 	"autoload": {
 		"psr-4": { "SendinBlue\\SendinBlueApiBundle\\": "" }
